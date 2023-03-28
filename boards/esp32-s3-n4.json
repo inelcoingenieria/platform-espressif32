@@ -20,7 +20,7 @@
 			]
 		],
 		"mcu": "esp32s3",
-		"variant": "esp32s3-n4"
+		"variant": "esp32s3"
 	},
 	"connectivity": [
 		"wifi",
